@@ -56,7 +56,11 @@ Le logiciel DB Browser for SQLite permet d’exécuter des requêtes SQL sur une
 
 ### ------------------------------Exercice_Relational_Schema------------------------------
 
-
+Synthèse des connaissances de tout les exercices précédents: 
+ - Donnez le nom d'une relation correspondant à une table
+ - Quels sont les attributs d'une relation avec son domaine
+ - Donner les entrées (t-uplet ou tuples)
+ - Donnez le schéma relationnel d'une relation
 
 ## Starting ##
 
