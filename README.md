@@ -17,3 +17,21 @@
 ### --------------------------------------Exercice_Execute_Query--------------------------------------
 
 ### --------------------------------------Exercice_Relational_Schema--------------------------------------
+
+## Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/axelvag/SQL SQL
+
+# Access
+$ cd SQL
+
+# Choose a project
+$ cd [project_name]
+
+# Open the subject
+$ cat [file.pdf]
+
+
+```
