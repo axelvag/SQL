@@ -25,6 +25,24 @@ Cette première étape consiste à créer une nouvelle base de données, puis à
 
 ### ------------------------------Exercice_Book------------------------------
 
+Avec ce petit TD j'ai appris la synthaxe pour:
+ - La création d'une base de donnée
+   ```
+   	CREATE TABLE "auteurs" (
+	"id_auteur"	INTEGER NOT NULL,
+	"nom"	VARCHAR(128),
+	"naissance"	YEAR,
+	"mort"	YEAR,
+	PRIMARY KEY("id_auteur")
+	);
+   ```
+ - Les ouvrages parus après 1865 dans l’ordre croissant de l’année de parution.
+   ```SELECT * FROM ouvrages WHERE parution > 1865 ORDER BY parution;```
+ - Suppression des ouvrages dont le id_auteur n'est pas 75 (Victor Hugo).
+   ```DELETE FROM auteurs WHERE id_auteur <> 75;```
+
+
+
 ### ------------------------------Exercice_Enquete_SQL------------------------------
 
 ### ------------------------------Exercice_Execute_Query------------------------------
