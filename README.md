@@ -51,17 +51,17 @@ All the clues to this mystery are buried in this enormous database, and I had to
 
 ### ------------------------------Exercice_Execute_Query------------------------------
 
-Apprendre à utiliser DB Browser for SQLite.
+Learn how to use DB Browser for SQLite.
 
-Le logiciel DB Browser for SQLite permet d’exécuter des requêtes SQL sur une base de données au format SQLite.
+The DB Browser for SQLite software allows you to execute SQL queries on a database in SQLite format.
 
 ### ------------------------------Exercice_Relational_Schema------------------------------
 
-Synthèse des connaissances de tout les exercices précédents: 
- - Donnez le nom d'une relation correspondant à une table
- - Quels sont les attributs d'une relation avec son domaine
- - Donner les entrées (t-uplet ou tuples)
- - Donnez le schéma relationnel d'une relation
+Summary of knowledge from all previous exercises:
+ - Give the name of a relation corresponding to a table
+ - What are the attributes of a relationship with its domain
+ - Give the inputs (t-tuple or tuples)
+ - Give the relational diagram of a relationship
 
 ## Starting ##
 
