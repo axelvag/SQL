@@ -45,9 +45,18 @@ Avec ce petit TD j'ai appris la synthaxe pour:
 
 ### ------------------------------Exercice_Enquete_SQL------------------------------
 
+J'ai dû aider un inspecteur de Police, pour cela vous avez à votre disposition une énorme base de données contenant de nombreuses informations sur les habitants de SQL City, ainsi que les archives des incidents déjà survenus dans cette ville.
+Tous les indices de ce mystère sont enterrés dans cette énorme base de données, et j'ai dû utiliser des commandes SQL pour naviguer dans ce vaste réseau d'informations.
+
 ### ------------------------------Exercice_Execute_Query------------------------------
 
+Apprendre à utiliser DB Browser for SQLite.
+
+Le logiciel DB Browser for SQLite permet d’exécuter des requêtes SQL sur une base de données au format SQLite.
+
 ### ------------------------------Exercice_Relational_Schema------------------------------
+
+
 
 ## Starting ##
 
